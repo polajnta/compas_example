@@ -1,4 +1,4 @@
-# ML in Policing 
+# ML in Policing Example: High-harm prediction using COMPAS
 Using COMPAS data in an AutoGluon Fair example to provide data for a worked example of the [RUDI framework](https://www.police-ml.com/introduction) and demonstrate a quick way to develop a baseline algorithm for prediction of high-harm offences for the purposes of suspect prioritisation. 
 
 Many police forces in UK are looking for ways to prioritise suspects based on risks implicitly encoded in their offending histories. Some are turning to ML-based prediction models. It is important to consider ethical aspects of this type of work and to acknowledge limitations of the training data and model performance when attempting to integrate these types of models into the policing workflow. 
